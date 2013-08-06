@@ -1,0 +1,14 @@
+{
+	"name":"troll",
+	"sheetSize":2048,
+    "inherit":"monsterbase.js",
+    "scenes":[
+    "trollAttack1.mb",
+    "trollAttack2.mb",
+    "trollDamage.mb",
+    "trollDead.mb",
+    "trollIdle.mb",
+    "trollRun.mb"
+],
+    "shouldFix":true
+}

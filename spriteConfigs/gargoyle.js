@@ -1,0 +1,29 @@
+{
+	"sheetSize":2048,
+	"animations": {
+		"fly":{
+			"start":78,
+			"end":86
+		},
+		"attack1":{
+			"start":17,
+			"end":34
+		},
+		"attack2":{
+			"start":35,
+			"end":50
+		},
+		"damage":{
+			"start":50,
+			"end":58
+		},
+		"dead":{
+			"start":58,
+			"end":77
+		},
+		"idle":{
+			"start":1,
+			"end": 9
+		}
+	}
+}

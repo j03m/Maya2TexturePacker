@@ -1,0 +1,14 @@
+{
+	"name":"wizard",
+	"sheetSize":2048,
+    "inherit":"monsterbase.js",
+    "scenes":[
+    "wizardAttack1.mb",
+    "wizardAttack2.mb",
+    "wizardDamage.mb",
+    "wizardDead.mb",
+    "wizardIdle.mb",
+    "wizardRun.mb"
+],
+    "shouldFix":true
+}

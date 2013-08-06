@@ -1,0 +1,30 @@
+{
+    "name":"goblin",
+    "sheetSize":2048,
+    "animations": {
+    "walk":{
+        "start":27,
+            "end":34
+    },
+    "attack":{
+        "start":95,
+            "end":105
+    },
+    "attack":{
+        "start":105,
+        "end":120
+    },
+    "idle":{
+        "start":2,
+            "end":26
+    },
+    "damage":{
+        "start":121,
+            "end":134
+    },
+    "dead":{
+        "start":151,
+            "end":181
+    }
+}
+}

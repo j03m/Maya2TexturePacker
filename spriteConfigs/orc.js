@@ -1,0 +1,14 @@
+{
+	"name":"orc",
+	"sheetSize":2048,
+    "inherit":"monsterbase.js",
+    "scenes":[
+        "orcAttack1.mb",
+        "orcAttack2.mb",
+        "orcDamage.mb",
+        "orcDead.mb",
+        "orcIdle.mb",
+        "orcRun.mb"
+    ],
+    "shouldFix":true
+}

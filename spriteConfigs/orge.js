@@ -1,0 +1,14 @@
+{
+	"name":"orge",
+	"sheetSize":2048,
+    "inherit":"monsterbase.js",
+    "scenes":[
+    "orgeAttack1.mb",
+    "orgeAttack2.mb",
+    "orgeDamage.mb",
+    "orgeDead.mb",
+    "orgeIdle.mb",
+    "orgeRun.mb"
+],
+    "shouldFix":true
+}

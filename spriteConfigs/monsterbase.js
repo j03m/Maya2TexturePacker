@@ -1,0 +1,28 @@
+{
+    "animations": {
+    "walk":{
+        "start":55,
+            "end":63
+    },
+    "attack":{
+        "start":2,
+            "end":11
+    },
+    "attack2":{
+        "start":11,
+            "end":20
+    },
+    "idle":{
+        "start":46,
+            "end":54
+    },
+    "damage":{
+        "start":20,
+            "end":29
+    },
+    "dead":{
+        "start":29,
+            "end":45
+    }
+}
+}

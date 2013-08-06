@@ -1,0 +1,26 @@
+{
+	"name":"scowerer",
+	"sheetSize":2048,
+	"animations": {
+		"walk":{
+			"start":1,
+			"end":11
+		},
+		"attack":{
+			"start":81,
+			"end":110
+		},
+		"idle":{
+			"start":1,
+			"end":1
+		},
+		"damage":{
+			"start":111,
+			"end":134
+		},
+		"dead":{
+			"start":158,
+			"end":168
+		}	
+	}
+}
